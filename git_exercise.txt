@@ -2,3 +2,4 @@ git log
 git init
 git add <filename>
 git push origin to master
+git commit -m "My message to check and addition"
